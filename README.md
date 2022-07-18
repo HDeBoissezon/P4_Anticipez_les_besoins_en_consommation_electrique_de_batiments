@@ -1,5 +1,5 @@
 # P4 : Anticipez les besoins en consommation électrique de bâtiments
-
+Ce projet s'inscrit dans le cadre de la formation Data Scientist délivrée par **OpenClassRooms** et **Centrale Supélec**.
 
 La ville de Seattle a pour objectif de devenir une ville neutre en émissions de carbone en 2050.
 Pour cartographier et anticiper les actions qui seront à mener, Seattle a réalisé des relevés de consommation d’énergie et d’émission de gaz à effet de serre pendant deux ans (2015 et 2016)
